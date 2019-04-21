@@ -1,11 +1,11 @@
-## Notebooks: Avaliação de Empresas/Negócios, Obrigações e Riscos Financeiros
+## Avaliação de Negócios, Créditos e Riscos Financeiros
 
-### Visualização Remota
+### Visualização Remota dos Notebooks
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASaragga/Notebooks.jl/master)
 
 As alterações efetuadas no Binder não são persistentes remotamente. Todavia, será possivel guardar localmente os Notebooks alterados num elevado número de formatos. 
 
-### Instalação em Computador Local
+### Instalação Local dos Notebooks
 
 Primeiro, necessitamos de instalar a linguagem de programação [Julia](https://julialang.org) (download v1.1). Alternativamente também podemos instalar [Julia Pro](https://juliacomputing.com/case-studies/), cujo site apresenta muitos exemplos interessantes de domínios onde foram desenvolvidas aplicações avançadas na linguagem Julia. 
 
