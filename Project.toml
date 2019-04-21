@@ -1,0 +1,12 @@
+name = "Notebooks.jl"
+uuid = "9ec20428-6400-11e9-25a9-114402521a41"
+authors = ["Antonio Saragga Seabra"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+TimeSeries = "9e3dc215-6440-5c97-bce1-76c03772f85e"
