@@ -29,8 +29,8 @@ Opcional - Por omissão, o **centro de controlo** será aberto na nossa diretori
 ```julia
 using IJulia; notebook(dir="diretoria_com_notebook_e_dados")
 ```
-Exemplo: se guardámos o notebook ```GRF2019abr.ipynb```e o ficheiro de dados ```GRF2019abr.csv``` na directoria ```C:\TrabalhoGRF```, então lançaremos **Jupyter** digitando,
+Exemplo: se guardámos o notebook ```2019abr.ipynb```e o ficheiro de dados ```2019abr.csv``` na directoria ```C:\Trabalhos```, então lançaremos **Jupyter** digitando,
 
 ```julia
-using IJulia; notebook(dir="C:\TrabalhoGRF")
+using IJulia; notebook(dir="C:\Trabalhos")
 ```
